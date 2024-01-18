@@ -18,4 +18,4 @@ In Game Turn Scene <br>
 ![sth](/images/5.PNG)<br>
 
 Result:
-The probability calculation did largely reduce the branching factor, however it still has room for improving the AI "thinking" speed and strength.
+The probability calculation did largely reduce the branching factor, however there is still room for improving the AI "thinking" speed and strength.
